@@ -2,9 +2,9 @@
 
 ## Occupation : Software Engineer
 
-## Crown Clothing
+## Project Name : Crown Clothing
 
-## E-commerce Project
+## Project Type : E-commerce
 
 ## React || Redux || Redux Saga
 
